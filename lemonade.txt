@@ -5,3 +5,4 @@ Limonata Tarifi:
 3.Su
 4.Portakal
 5.Nane
+6.Karanfil
