@@ -7,9 +7,5 @@ Limonata Tarifi:
 5.Nane
 6.Karanfil
 7.Tarçın
-
-Araç ve gereçler:
-
-1.Bardak
-2.Sürahi
+8.Buz
 
